@@ -1,5 +1,4 @@
 # LSC-for-fivem
-Custom MLO for Fivem
 this is my first building that i ever created.
 
 it works on gta v and fivem
